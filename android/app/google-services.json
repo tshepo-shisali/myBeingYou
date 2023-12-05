@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139074668861",
+    "project_id": "my-being-you",
+    "storage_bucket": "my-being-you.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139074668861:android:64a51a0a8ac85382fc1d54",
+        "android_client_info": {
+          "package_name": "com.example.school_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139074668861-758e7ut5vjo3mucubij8sldjn0oi6kb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZ5hJhLZg0OyBQLbnuo34q-FlnLt6aYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139074668861-758e7ut5vjo3mucubij8sldjn0oi6kb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

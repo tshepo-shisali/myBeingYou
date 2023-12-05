@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">139074668861-758e7ut5vjo3mucubij8sldjn0oi6kb3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">139074668861</string>
+    <string name="google_api_key" translatable="false">AIzaSyBZZ5hJhLZg0OyBQLbnuo34q-FlnLt6aYs</string>
+    <string name="google_app_id" translatable="false">1:139074668861:android:64a51a0a8ac85382fc1d54</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZZ5hJhLZg0OyBQLbnuo34q-FlnLt6aYs</string>
+    <string name="google_storage_bucket" translatable="false">my-being-you.appspot.com</string>
+    <string name="project_id" translatable="false">my-being-you</string>
+</resources>
