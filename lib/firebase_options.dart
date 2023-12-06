@@ -47,29 +47,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAYf0LeiloNoTH3CXThX2NlNzatRETBLW8',
-    appId: '1:139074668861:web:3e1fb17813e39926fc1d54',
-    messagingSenderId: '139074668861',
+    apiKey: '**********************************************',
+    appId: '***********************************************',
+    messagingSenderId: '***********************************',
     projectId: 'my-being-you',
     authDomain: 'my-being-you.firebaseapp.com',
     storageBucket: 'my-being-you.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBZZ5hJhLZg0OyBQLbnuo34q-FlnLt6aYs',
-    appId: '1:139074668861:android:64a51a0a8ac85382fc1d54',
-    messagingSenderId: '139074668861',
+    apiKey: '********************************************',
+    appId: '*************************************************',
+    messagingSenderId: '*********************************',
     projectId: 'my-being-you',
     storageBucket: 'my-being-you.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA3p8wc1xvIpIdfokgl5ZqkcYcq_h4zX7E',
-    appId: '1:139074668861:ios:89a921b72d296d43fc1d54',
-    messagingSenderId: '139074668861',
+    apiKey: '*************************************************',
+    appId: '****************************************************************',
+    messagingSenderId: '***********************************************',
     projectId: 'my-being-you',
     storageBucket: 'my-being-you.appspot.com',
-    iosClientId: '139074668861-j5ptq60q3aj7kspfl901jbi69kjv6rkb.apps.googleusercontent.com',
+    iosClientId: '************************************************************************************',
     iosBundleId: 'com.example.schoolProject',
   );
 }
